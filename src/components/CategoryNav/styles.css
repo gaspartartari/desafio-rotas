@@ -1,0 +1,21 @@
+.dr-nav-product-categories {
+    height: 60px;
+    background-color: var(--card-category-bg-color);
+    margin: 20px 0;
+  }
+  
+  .dr-nav-product-categories a {
+    color: black;
+    padding: 20px;
+
+  }
+
+  .nav-bold {
+    font-weight: 700;
+  }
+  
+  .nav-ligth {
+    font-weight: 400;
+  }
+  
+  
